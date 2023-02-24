@@ -299,10 +299,11 @@ body {
   left: 14px;
 }
 
-.entry.blue:after { background: rgba(156, 202, 235, 1); }
-.entry.orange:after { background: rgba(247, 167, 0, 1); }
-.entry.green:after { background: rgba(153, 198, 109, 1); }
-.entry.yellow:after { background: rgba(249, 233, 0, 1); }
+.entry.blue:after { background: rgba(0, 0, 255, 1); }
+.entry.orange:after { background: rgba(255, 165, 0, 1); }
+.entry.green:after { background: rgba(50, 250, 50, 1); }
+.entry.yellow:after { background: rgba(255, 255, 0, 1); }
+.entry.red:after { background: rgba(255, 0, 0, 1); }
 
 /* Animations are cool!  */
 @-webkit-keyframes moveFromTopFade {
