@@ -323,7 +323,7 @@
   var data = [
 		{ eventName: 'Lunch Meeting w/ Mark', calendar: 'Work', color: 'orange', eventTime: moment()},
 		{ eventName: 'Visiting NCU', calendar: 'Work', color: 'orange', eventTime: moment("2023-02-14")},
-		{ eventName: 'Visiting NCKU', calendar: 'Work', color: 'orange', eventTime: moment("2023-02-25")},    
+		{ eventName: 'Visiting NCKU', calendar: 'Work', color: 'orange', eventTime: moment("2023-02-25")}  
   ];
 
   
