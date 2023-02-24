@@ -21,7 +21,7 @@ body {
   -webkit-transform: translate3d(0, 0, 0);
   -moz-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
-  width: 600px;
+  width: 700px;
   margin: 10px auto;
   height: auto;
   overflow: hidden;
@@ -30,7 +30,7 @@ body {
 
 .header {
   height: 50px;
-  width: 600px;
+  width: 700px;
   background: rgba(255, 255, 255, 1);
   text-align: center;
   position:relative;
@@ -121,7 +121,7 @@ body {
 
 .day {
   display: inline-block;
-  width: 60px;
+  width: 100px;
   padding: 10px;
   text-align: center;
   vertical-align: top;
@@ -180,7 +180,7 @@ body {
 
 .details {
   position: relative;
-  width: 600px;
+  width: 700px;
   height: 75px;
   background: rgba(164, 164, 164, 1);
   background: #fbfbfb;
