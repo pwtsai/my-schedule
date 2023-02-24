@@ -174,9 +174,9 @@ body {
 }
 
 .blue { background: rgba(0, 0, 255, 1); }
-.orange { background: rgba(247, 167, 0, 1); }
-.green { background: rgba(153, 198, 109, 1); }
-.yellow { background: rgba(249, 233, 0, 1); }
+.orange { background: rgba(255, 165, 0, 1); }
+.green { background: rgba(50, 250, 50, 1); }
+.yellow { background: rgba(255, 255, 0, 1); }
 .red { background: rgba(255, 0, 0, 1); }
 
 .details {
