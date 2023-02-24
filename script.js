@@ -395,7 +395,7 @@
 		{eventName: '[南科]國網中心(0800-1400)', calendar: 'Work', color: 'green', eventTime: moment("2023-03-16")},	
 		{eventName: '[台中]勞動部技能檢定競賽裁判', calendar: 'Work', color: 'red', eventTime: moment("2023-03-23")},
 		{eventName: '[台中]勞動部技能檢定競賽裁判', calendar: 'Work', color: 'red', eventTime: moment("2023-03-24")},
-		{eventName: '行程資訊', calendar: 'Work', color: 'yellow', eventTime: moment()}
+		{eventName: '', calendar: 'Work', color: 'yellow', eventTime: moment("1900-01-01")}
 	];
 
 
