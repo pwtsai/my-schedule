@@ -389,7 +389,7 @@
 
 !function () {
 	var data = [
-		{eventName: '[中央]教發機房設備臨時維護(全天)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-02")},	
+		{eventName: '[中央]教發機房設備臨時維護(全天)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-01")},	
 		{eventName: '[成大]陪同國外學者餐敘和演講(1130-1400)', calendar: 'Work', color: 'green', eventTime: moment("2023-03-02")},	
 		{eventName: '[內湖]產學合作洽談(中午)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-03")},	
 		{eventName: '[中央]全校電力維護機房設備停機(下午)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-03")},	
