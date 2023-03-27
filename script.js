@@ -399,6 +399,9 @@
 		{eventName: '[台北]計畫/成果報告書撰寫、中研院國合參訪規劃', calendar: 'Work', color: 'red', eventTime: moment("2023-03-17")},		
 		{eventName: '[台中]勞動部技能檢定競賽裁判(全天)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-23")},
 		{eventName: '[台中]勞動部技能檢定競賽裁判(全天)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-24")},
+		{eventName: '[南科]國網機房(早上及中午)、[成大]跨校實驗設備設定(下午)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-29")},
+		{eventName: '[中央]跨校實驗設備設定(全天)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-30")},
+		{eventName: '[中央]碩士班預口試(全天)', calendar: 'Work', color: 'red', eventTime: moment("2023-03-31")},	
 		{eventName: '', calendar: 'Work', color: 'green', eventTime: moment("1900-01-01")}
 	];
 
